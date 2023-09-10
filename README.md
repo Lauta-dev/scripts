@@ -21,4 +21,4 @@ node ./script.js
 
 | Nombre                | Descripción | Peligro                                                                                | usage                                                                                                                           |
 | --------------------- | ----------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| [Eliinar node_moduleEliinar node_moduless](./removeNode_modules.js) | Na          | Esto eliminara todas las carpetas de node_modules encontradas sin preguntar al usuario | Solo copie y pege el script en la raiz donde esten todos sus proyectos, seguido de ejecutar el script |
+| [Eliminar node_moduleEliinar node_moduless](./removeNode_modules.js) | Na          | Esto eliminara todas las carpetas de node_modules encontradas sin preguntar al usuario | Solo copie y pege el script en la raiz donde esten todos sus proyectos, seguido de ejecutar el script |
